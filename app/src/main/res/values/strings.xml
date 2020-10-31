@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PetTabbed</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mensaje">Mensaje</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="email">Email</string>
+    <string name="user_mail">email</string>
+    <string name="user_pass">pass</string>
+    <string name="err_email_faltante">Coloque su email y pass en strings.xml</string>
+    <string name="succ_email_enviado">Email enviado exitosamente!</string>
+    <string name="err_email_failed_send">Email failed to send.</string>
+    <string name="enviando_email">Enviando email...</string>
+    <string name="instruccion">Esta activity está configurada para enviar tu mensaje a mi correo electrónico. Debes ingresar tu dirección de correo electrónico y tu contraseña. Por el momento solo funciona con cuentas de Gmail.</string>
+    <string name="titulo_email">Envíame un comentario</string>
+    <string name="titulo_acerca_de">Cristian M. Chavez</string>
+    <string name="mi_edad">Edad: 32 años</string>
+    <string name="nacionalidad">Nacionalidad: Argentino</string>
+    <string name="bio">Nacido en Mendoza, la tierra del sol y del buen vino, disfruta de los días fríos, el humor sano e inteligente y las buenas amistades. Retirado gamer y jugador de voley.</string>
+    <string name="gracias">¡¡Gracias por calificar mi proyecto!!</string>
+</resources>
